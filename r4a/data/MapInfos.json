@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"expanded":false,"name":"Hub","order":1,"parentId":0,"scrollX":1712,"scrollY":834.6666666666666},
-{"id":2,"expanded":false,"name":"Forest Realm","order":2,"parentId":0,"scrollX":8290.666666666666,"scrollY":4941.333333333333},
-{"id":3,"expanded":false,"name":"Water Realm","order":3,"parentId":0,"scrollX":4713.599999999999,"scrollY":4108.8},
-{"id":4,"expanded":true,"name":"Fire Realm","order":4,"parentId":0,"scrollX":4714,"scrollY":4196},
-{"id":5,"expanded":false,"name":"Dungeon1","order":5,"parentId":4,"scrollX":832,"scrollY":624}
-]
